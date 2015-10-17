@@ -1,0 +1,2 @@
+defmodule ElixirQuickcheckExample do
+end
